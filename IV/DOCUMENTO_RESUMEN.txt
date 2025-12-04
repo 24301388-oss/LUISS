@@ -1,0 +1,26 @@
+
+Documento: Resumen del proyecto - Gestor Interactivo
+Objetivo del sitio:
+Crear un sitio web responsivo que demuestre la integración de HTML, CSS y JavaScript para la gestión básica de información,
+interacción con el usuario y buenas prácticas de usabilidad.
+
+Tecnologías utilizadas:
+- HTML5 semántico (header, nav, main, section, article, footer)
+- CSS3 (mobile-first, variables, selectores avanzados)
+- JavaScript puro (ES6): validación de formularios, manejo del DOM, almacenamiento local
+
+Funcionalidades desarrolladas:
+- Menú de navegación entre 5 páginas: index.html, about.html, gallery.html, form.html, dashboard.html
+- Formulario con validación básica (nombre, correo, edad) y control por JavaScript. Los registros se almacenan en localStorage y se muestran en una lista dinámica con opción de eliminar o limpiar.
+- Carrusel de imágenes con controles y miniaturas que permiten navegar y seleccionar imágenes. Avance automático cada 5s.
+- Modo oscuro/claro activable desde botones del encabezado (aplica a todo el sitio).
+- Panel con calculadora simple (operaciones + - * /) y sección que se puede mostrar/ocultar vía DOM.
+- Uso de componentes estilizados: tarjetas, botones, banner, lista y controles.
+
+Capturas de pantalla:
+(Al publicar el sitio en un hosting gratuito, tomarás capturas de las páginas principales y las incluirás aquí).
+
+Instrucciones para publicar:
+1. Subir el contenido de la carpeta del proyecto a un hosting estático gratuito (GitHub Pages, Netlify, Vercel o similar).
+2. Verificar que la ruta de los archivos sea correcta y que la carpeta /img, /css y /js estén presentes.
+
